@@ -13,7 +13,6 @@
         Try out a minimum app!
 	</description>
 	
-        <plugin spec="https://github.com/goya/plugin-hook-testerpoot1.git" source="git" />
 	<plugin name="https://github.com/goya/plugin-hook-testerpoot2.git" />
 	<plugin name="https://github.com/goya/plugin-hook-testerpoot3.git" spec="what" />
 	
