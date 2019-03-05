@@ -12,7 +12,9 @@
 	<description>
         Try out a minimum app!
 	</description>
-
+	
+        <plugin name="https://github.com/goya/plugin-hook-testerpoot.git" spurce="git" />
+	
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
 	</author>
