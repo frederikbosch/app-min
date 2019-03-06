@@ -14,7 +14,7 @@
 	</description>
 	
 	<plugin name="https://github.com/apache/cordova-plugin-inappbrowser.git" />
-	<plugin name="https://github.com/goya/plugin-hook-testerpoot3.git" spec="what" />
+	<plugina name="https://github.com/goya/plugin-hook-testerpoot3.git" spec="what" />
 	
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
