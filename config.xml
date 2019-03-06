@@ -13,7 +13,7 @@
         Try out a minimum app!
 	</description>
 	
-	<plugin name="https://github.com/apache/cordova-plugin-inappbrowser.git#zz6db2f2d" />
+	<plugin name="https://github.com/apache/cordova-plugin-inappbrowser.git#6ab2f2d" />
 	<plugin name="https://github.com/goya/plugin-hook-testerpoot3.git" spec="what" />
 	
 	<author href="http://adobe.com" email="rudd@adobe.com">
